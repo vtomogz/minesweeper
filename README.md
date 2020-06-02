@@ -1,3 +1,3 @@
 # minesweeper
 
-![Example screenshot](./image.png)
+![Example screenshot](indeks.png)
